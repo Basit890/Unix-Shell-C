@@ -12,10 +12,10 @@
 - **Command History** – Stores and recalls previously entered commands
 - **Custom Parsing Logic** – Handles whitespace, multiple operators, etc.
 
-**Author
-Name: Basit Ibrahim
-University: BRAC University
-Course: CSE 321, Operating Systems**
+**Author**
+**Name: Basit Ibrahim**
+**University: BRAC University**
+**Course: CSE 321, Operating Systems**
 
 
 ## How to Compile
