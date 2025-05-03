@@ -20,7 +20,7 @@ Make sure you're using a Linux environment with `gcc` installed. Then:
 ```bash
 gcc myshell.c -o myshell
 
-Author
+**Author
 Name: Basit Ibrahim
 University: BRAC University
-Course: CSE 321, Operating Systems
+Course: CSE 321, Operating Systems**
